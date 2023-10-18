@@ -1,1279 +1,1297 @@
 1;1C-Bitrix
-2;2D-Animation
-3;2D-Grafiken
-4;3ds Max
-5;3D-Animation
-6;3D Modellierung
-7;960 g
-8;ABAP
-9;Ableton live
-10;ActionScript
-11;Aktives Verzeichnis
-12;Acunetix
+2;*nix Verwaltung
+3;.NET
+4;.NET Core
+5;1C: ERP
+6;2D-Animation
+7;2D-Grafiken
+8;3D-Animation
+9;3D Modellierung
+10;3ds Max
+11;960gs
+12;ABAP
 13;ADFOX
-14;Adobe Acrobat
-15;Adobe After Effects
-16;Adobe AIR
-17;Adobe Animate
-18;Adobe Audition
-19;Adobe Creative Suite 6
-20;Adobe Dreamweaver
-21;Adobe Edge Animate
-22;Adobe-Feuerwerk
-23;Adobe Illustrator
-24;Adobe Indesign
-25;Adobe Muse
-26;Adobe Photoshop
-27;Adobe Premiere
-28;Adobe XD
-29;ADO.NET
-30;ADO.NET-Entitätsframework
-31;Aerospike
-32;Agil
-33;Ahrefs
-34;AIOHTTP
-35;AIX
-36;Ajax
-37;Akka
-38;Altium Designer
-39;Amazon EKS
-40;AmoCRM
-41;Amplitude
-42;Android NDK
-43;Android SDK
-44;Android-Studio
-45;Richtlinien für die Android-Benutzeroberfläche
-46;Eckig
-47;Angular.js
-48;Ansible
-49;Ansi C
-50;Ameise
-51;Apache
-52;Apache2
-53;Apache Airflow
-54;Apache-Kamel
-55;Apache Cassandra
-56;Apache Cordova
-57;Apache CouchDB
-58;Apache Flex
-59;Apache Flink
-60;Apache Hadoop
-61;Apache JMeter
-62;Apache Kafka
-63;Apache Maven
-64;Apache Spark
-65;Apache Struts
-66;Apache-Subversion
-67;Apache tomcat
-68;API-Schnittstellen
-69;Yandex.Maps-API
-70;Apollo
-71;App-Erfinder
-72;Appium
-73;Anwendbarkeitserklärung 2
-74;Apps-Flyer
-75;Arcgis
-76;Archicad
-77;ArchiMate
-78;Arduino
-79;Aris
-80;ARM-Architektur
-81;Artlantis
-82;Asana
-83;AsciiDoc
-84;ASM
-85;ASP-Klassiker
-86;ASP.NET
-87;ASP.NET MVC
-88;ASP.NET-WEB-API
-89;ASP.NET-Webformulare
-90;Monteur
-91;Sternchen
-92;Asyncio
-93;ATL
-94;Atmel AVR
-95;Atmel AVR ASM
-96;Atom
-97;Autocad
-98;Autodesk Maya
-99;Autoit
-100;Automatisches Layout
-101;AUTOSAR
-102;AvaloniaUI
-103;Avaya
-104;AVR C
-105;AWS
-106;Axapta
-107;Axure
-108;AxureRP
-109;B2B
-110;B2C
-111;Babel
-112;Babylon.js
-113;Backbone.js
-114;Balsamiq-Modelle
-115;Bambus CI
-116;bash
-117;Behat
-118;BFT
-119;BGP
-120;BI
-121;Bitcoin
-122;Black-Box-Tests
-123;Blazor
-124;Mixer
-125;Blockchain
-126;Schub
-127;Border Gateway Protokoll
-128;Laube
-129;Box2d
-130;BPMN
-131;Marke
-132;Blase
-133;Kumpel
-134;Rülpsen-Suite
-135;Business Intelligence
-136;Bytecode-Viewer
-137;C
-138;C#
-139;C++
-140;ObjectScript zwischenspeichern
-141;Kakteen
-142;Kaffee
-143;CakePHP
-144;Kalebasse
-145;Camunda
-146;Leinwand
-147;Capistrano
-148;Wasserschwein
-149;C++-Boost
-150;CCNA
-151;CCS
-152;Sellerie
-153;Centos
-154;Kanal
-155;Chaplin.js
-156;Charles
-157;Koch
-158;CI/CD
-159;Kino 4d
-160;CIO
-161;Kreis CI
-162;Cisco CCNA
-163;Cisco CCNP
-164;Citrix
-165;Clarion
-166;Saubere Architektur
-167;ClickHouse
-168;Clojure
-169;Cmake
-170;CMS „1C-Bitrix“
-171;Kakao
-172;Kakao-Touch
-173;Cocos2d
-174;Cocos2d-iPhone
-175;Cocos2d-x
-176;Codeception
-177;Mitzünder
-178;CoffeeScript
-179;Kaltfusion
-180;Gemeinsames Lispeln
-181;Kompass
-182;Komponist
-183;Technische Informatik
-184;Informatik
-185;Konsul
-186;Inhaltlich
-187;Kerndatei
-188;Kerngrafiken
-189;Coreldraw
-190;Corel-Maler
-191;Corona SDK
-192;Coroutinen
-193;Cortex-M3
-194;Creatio CRM
-195;Kristall
-196;CS-Wagen
-197;CSS
-198;CSS-in-JS
-199;CSS-Prozessoren
-200;C++ stl
-201;Gurke
-202;Cuda
-203;cURL
-204;Cygwin
-205;Zypresse
-206;D
-207;D3.js
-208;Dolch 2
-209;Pfeil
-210;Data-Life-Engine
-211;DBA
-212;DBIx::Klasse
-213;DDD
-214;Debian
-215;Tiefes Lernen
-216;Delphi
-217;devexpress
-218;DevOps
-219;DevRel
-220;DevSecOps
-221;DHCP
-222;DirectX
-223;DITA
-224;Django
-225;DNS
-226;DocBook
-227;Docker
-228;Lehre
-229;Lehre2
-230;Dokumentobjektmodell
-231;Documentum
-232;Dojo
-233;Domänenspezifische Sprachen
-234;Drupal
-235;DWH
-236;Finsternis
-237;Edius
-238;Elasticsearch
-239;Elektron
-240;Elixier
-241;ELK-Stapel
-242;Ulme
-243;Eloqua
-244;E-Mail Marketing
-245;eingebettetes Linux
-246;ember.js
-247;Emmet
-248;Unternehmen
-249;Enterprise JavaBeans
-250;Dienstbus eines Unternehmens
-251;Entitätsrahmen
-252;Erlang
-253;Erlang/OTP
-254;ERM
-255;ER-Diagramme
-256;Äther
-257;Ethernet 802.1Q
-258;ETL
-259;exim
-260;Äußern
-261;ExtJS
-262;F#
-263;Facebook-API
-264;Falke
-265;FastAPI
-266;Überholspur
-267;ffmpeg
-268;FHIR
-269;Figma Design
-270;Filemaker
-271;Final Cut Pro X
-272;Feines BI
-273;Feuervogel
-274;Firewall
-275;Flash-Programmierung
-276;Flasche
-277;Biegen
-278;Fluss
-279;FL Studio
-280;Flattern
-281;FluxCD
-282;her
-283;Fortran
-284;Stiftung
-285;FPGA
-286;FreeBSD
-287;FreeMarker-Vorlagen-Engine
-288;freier Schalter
-289;Frida
-290;FuelPHP
-291;Voller Stapel
-292;SICHERUNG
-293;Game Maker-Sprache (GML)
-294;GCD
-295;Getriebemann
-296;Gentoo
-297;Fall
-298;Ghidra
-299;GIMP
-300;GIS
-301;Git
-302;Git-Flow
-303;GitHub
-304;GitHub-Aktionen
-305;GitHub-Bereitstellungen
-306;GitLab
-307;Gleiten
-308;Global
-309;GLSL
-310;GNU
-311;GNU-Compiler-Sammlung
-312;GNU Make
-313;Golang
-314;Google Werbung
-315;Google Analytics
-316;Google App Engine
-317;Google BigQuery
-318;Google Cloud-Plattform
-319;Google Firebase
-320;Google Kubernetes Engine
-321;Google Maps-API
-322;Google-Partner
-323;Google Search Console
-324;Google Tag Manager
-325;Gradle
-326;Grafana
-327;Grails-Framework
-328;GraphQL
-329;FASSEN
-330;Graylog
-331;groovig
-332;Wachstum hacken
-333;gRPC
-334;Grunzen
-335;GTK+
-336;GUI-Design
-337;Schluck
-338;GWT
-339;Haml
-340;Haskell
-341;Haxe
-342;Hexagon
-343;Überwintern
-344;Highcharts.js
-345;Host-CMS
-346;Houdini
-347;HP LoadRunner
-348;HTML
-349;HTTP
-350;Hyperv
-351;IBM Db2
-352;IBM WebSphere
-353;IDA Pro
-354;IDS
-355;IIS
-356;Inkscape
-357;Im Verkauf
-358;Intellij-IDEE
-359;Interbase
-360;Ionisch
-361;Richtlinien für die Benutzeroberfläche von iOS
-362;IPS Community Suite
-363;iptables
-364;ITIL
-365;IT-Beratung
-366;J2ME
-367;Jackson
-368;Jade
-369;Jasmin
-370;Java
-371;Java-Kern
-372;JavaEE
-373;JavaFX
-374;Java-Nachrichtendienst
-375;Java-Persistenz-API
-376;JavaScript
-377;Java SE
-378;Java-Servlet
-379;Java Spring Framework
-380;Java Spring Framework.
-381;JBoss-Anwendungsserver
-382;JBoss EJB3
-383;JDBC
-384;Jee
-385;Jenkins
-386;Scherz
-387;Jira
-388;Joomla
-389;JOOQ
-390;JQuery
-391;JQuery Mobile
-392;JQuery-Benutzeroberfläche
-393;JSF
-394;JS
-395;Wacholder
-396;Junit
-397;Jupyter-Notizbuch
-398;Kanban
-399;Karma
-400;Kaspersky Endpoint Security
-401;Kendo-Benutzeroberfläche
-402;Keras
-403;Kerio
-404;Keynote
-405;Knockout.js
-406;koa.js
-407;Kohana-Framework
-408;Kotlin
-409;Ktor
-410;Kubernetes
-411;KVM
-412;Laboransicht
-413;Lampe
-414;Laravel
-415;Latex
-416;Lazarus
-417;LDAP
-418;Flugblatt
-419;Lean-Startup
-420;WENIGER
-421;LibGDX
-422;Lebensstrahl
-423;Linkaufbau
-424;Linq
-425;Linux
-426;Linux Kernel
-427;lispeln
-428;Beleuchtete Elemente
-429;Livestreet
-430;Lotus Domino
-431;lua
-432;Lync
-433;Mac
-434;Magento
-435;Mailchimp
-436;Mantikor
-437;Karte verkleinern
-438;Marionette.js
-439;Markieren Sie es
-440;Marvel-App
-441;Material Design
-442;MaterialiseCSS
-443;MathCAD
-444;Matlab
-445;MatPlotLib
-446;Matte Malerei
-447;McAfee DLP
-448;Memcache
-449;Mercurial
-450;Meteor.js
-451;MFC
-452;Microsoft Access
-453;Microsoft Dynamic CRM
-454;Microsoft Dynamics CRM
-455;Microsoft Dynamics NAV
-456;Microsoft Excel
-457;Microsoft Exchange Server
-458;Microsoft Office
-459;Microsoft Powerpoint
-460;Microsoft Projekt
-461;Microsoft Silverlight
-462;Microsoft SQL
-463;Microsoft SQL Server
-464;Microsoft Visio
-465;Microsoft Word
-466;Microsoft Xna
-467;Mikrotik
-468;Handy, Mobiltelefon
-469;MobX
-470;Mokka
-471;MODX CMS
-472;MODX EVO
-473;MODX-REVOLUTION
-474;Mojolicious
-475;Moleculer.js
-476;MongoDB
-477;mootools
-478;MPLS
-479;MQL4
-480;MQTT
-481;MSP
-482;MSP430
-483;Schlammbox
-484;MVVM
-485;MVVM WS WCF
-486;MyBatis
-487;MySQL
-488;MySQL
-489;Nagios
-490;NativeScript
-491;Neo4j
-492;NestJS
-493;.NETZ
-494;NetBackup
-495;Netbeans
-496;Netcat CMS
-497;.NET Core
-498;Netty
-499;Neue Geschäftsentwicklung
-500;Next.js
-501;Nginx
-502;Überwintern
-503;Nightwatch.js
-504;Node.js
-505;NoSQL
-506;Notepad++
-507;Nuklear
-508;NumPy
-509;Nunit
-510;Nuxt.js
-511;NW.js
-512;Ziel c
-513;Oktober Cms
-514;OData
-515;OLAP
-516;Onboarding
-517;OpenAPI-Spezifikation
-518;Warenkorb öffnen
-519;OpenCL
-520;OpenCV
-521;OpenEdge ABL
-522;OpenGL
-523;OpenGL ES
-524;OpenMP
-525;Offener Stapel
-526;OpenVPN
-527;OpenVZ
-528;Operationen
-529;Orakel
-530;Oracle-Anwendungsexpress
-531;Oracle-DBA
-532;Oracle E-Business Suite
-533;Von Oracle entwickelte Systeme
-534;Oracle PL
-535;Oracle PL/SQL
-536;Oracle Siebel CRM
-537;Oracle Solaris
-538;Oracle SQL
-539;Oracle-Weblogic-Server
-540;Oracle-Workflow
-541;OSGI
-542;Osi-Modell
-543;OSPF
-544;OWASP
-545;Malwerkzeug SAI
-546;Pandas
-547;Parallaxe
-548;Parser3
-549;Pascal
-550;Verpfänden
-551;Zahlungsgateways
-552;PCB-Design
-553;PCI DSS
-554;Leistung
-555;Leistungsoptimierung
-556;Perl
-557;pfSense
-558;pgSQL
-559;Phalkon
-560;Phantom.js
-561;Phönix
-562;PhoneGap
-563;PHP
-564;PHPMyAdmin
-565;PHPUnit
-566;Bild Mikrocontroller
-567;Pixelmator
-568;Pixel perfekt
-569;pixi.js
-570;spielen
-571;SPS
-572;PMBOK
-573;Punktwolkenbibliothek
-574;Polymer (Bibliothek)
-575;Posix
-576;CSS posten
-577;Postfix
-578;PostGIS
-579;PostgreSQL
-580;Briefträger
-581;PowerBI
-582;PowerBuilder
-583;PowerScript
-584;Power Shell
-585;PP
-586;Vorverkauf
-587;PrestaShop
-588;Prime Faces
-589;Prisma
-590;Produktschulungen
-591;Prolog
-592;Prometheus
-593;protobuf
-594;Mops
-595;Marionette
-596;Reines C
-597;PWA
-598;PyQT
-599;Pyramide
-600;Python
-601;PyTorch
-602;Qemu
-603;Qlik Sense
-604;Qlik-Ansicht
-605;QML
-606;QNX
-607;QoS / ETS (Enhanced Transmission Selection) RFC
-608;Qt
-609;QTQML
-610;Quarkus
-611;QuarkXPress
-612;R
-613;RabbitMQ
-614;RDMA
-615;Reagieren
-616;Reagiere nativ
-617;RealBig
-618;Reich
-619;Echtzeit
-620;ReasonML
-621;ReasonReact
-622;Rückstoß
-623;roter Hut
-624;Red Hat Enterprise Linux
-625;Red Hat Linux
-626;redis
-627;Redmine
-628;Redux
-629;Regex
-630;Verstärkungslernen
-631;Require.js
-632;Responsys
-633;AUSRUHEN
-634;Seien Sie versichert
-635;RESTful-API
-636;RESTful-Webdienste.
-637;umstrukturierterText
-638;Nachrüstung
-639;RGB
-640;Riak
-641;RISC-V
-642;Forschung und Entwicklung
-643;Roboter-Framework
-644;Zimmer
-645;Rspez
-646;RTL
-647;Rubin
-648;Ruby auf Schienen
-649;Rost
-650;RxJava2
-651;RxSwift
-652;Saas
-653;Sails.js
-654;SAI-Malwerkzeug
-655;Zwangsversteigerung
-656;Samba
-657;Sanic
-658;SAFT
-659;SAP BI
-660;SAP Business Objects BI
-661;SAP ERP
-662;SAP HCM
-663;SAP HR
-664;SAP Hybris
-665;SAP PM
-666;SAP S/4 HANA
-667;SAP SD/MM
-668;SAPTM
-669;SAP NSI
-670;SAS
-671;Sass
-672;SAST/DAST
-673;Scada
-674;Scala
-675;Scrapy
-676;Kratzen
-677;Schreiender Frosch
-678;Gedränge
-679;Scrum Master
-680;SCSS
-681;SDL/SDLC
-682;Selenid
-683;Selen
-684;Semrush
-685;Sencha-Touch
-686;Posten
-687;SEO-Site-Audit
-688;SEO-Optimierung
-689;SE-Ranking
-690;Serpstat
-691;Serverseitiges Rendering
-692;Diensterkennung
-693;Sharepoint
-694;Hülse
-695;Shell-Scripting
-696;Sidero
-697;SIEM
-698;Siemens NX
-699;Signalr
-700;Silex
-701;Simatic Step7
-702;Simpla CMS
-703;Sinatra
-704;SCHLUCK
-705;skizzieren
-706;Schlank
-707;Smalltalk
-708;SmartCards
-709;Smart-TV
-710;Smarty
-711;KMU
-712;SMM
-713;SOA
-714;SEIFE
-715;Socket.io
-716;Solana
-717;SOLIDE
-718;Solidität
-719;SolidWorks
-720;solr
-721;SonarQube
-722;Sonatype Nexus
-723;Sony Vegas
-724;Sony Vegas Pro
-725;Sphinx
-726;Splunk
-727;Frühlingsstiefel
-728;SQL
-729;SQLalchemie
-730;SQLite
-731;SQL Server Reporting Services
-732;Tintenfisch
-733;SRE
-734;SSAS
-735;SSDL
-736;SSH
-737;SSIS
-738;Star
-739;Statistikmodelle
-740;STM32
-741;Storyboard
-742;Märchenbuch
-743;Strapi
-744;Stift
-745;Erhabener Text
-746;SugarCRM
-747;Svelte.js
-748;SVG
-749;SVN
-750;SW/HW
-751;Schnell
-752;SwiftUI
-753;Schwingen
-754;Wechseln
-755;Sybase
-756;Symphonie
-757;SystemC
-758;Systemverilog
-759;Tableau
-760;Talos OS
-761;Tarantool
-762;TCP
-763;TDD/BDD
-764;TeamCity
-765;Team Foundation-Server
-766;TensorFlow
-767;Terraform
-768;Testlink
-769;TestNG
-770;TestRail
-771;Three.js
-772;Tilda
-773;Titan
-774;TOGAF
-775;Tornado-Webserver
-776;Trello
-777;T-SQL
-778;Zweig
-779;Verdrehte
-780;Twitter-Bootstrap
-781;TypORM
-782;Typoskript
-783;TYPO3
-784;Ubuntu
-785;UIKit
-786;UI/UX-Design
-787;UMI.CMS
-788;UML
-789;underscore.js
-790;Unity3d
-791;Unix
-792;Unix-Shell-Scripting
-793;Unwirkliche Engine
-794;UVM
-795;UWSGI
-796;UX-Texterstellung
-797;UX-Tests
-798;Vadin
-799;Landstreicher
-800;Vanilla.js
-801;Dampf
-802;VBScript
-803;Verilog HDL
-804;vert.x
-805;VHDL
-806;Vim
-807;VirtualBox
-808;Tugend-Mart
-809;Visual Basic
-810;Visual Basic für Anwendungen
-811;Visuelles C#
-812;Visual Studio
-813;VK-API
-814;VMware
-815;VMWare ESXi
-816;VMware vSphere
-817;VPN
-818;VPS
-819;V Ray
-820;vTiger
-821;Vue.js
-822;Vulkan-API
-823;Wasserfall
-824;Way4-Plattform
-825;WCF
-826;Netz
-827;Webasyst
-828;Webflow
-829;WebGL
-830;Webinterface-Design
-831;Webpack
-832;WebRTC
-833;WebSockets
-834;WebTutor
-835;Win32-API
-836;WinDbg
-837;Windows-API
-838;Windows Azure
-839;Windows Forms
-840;WinRT
-841;Wireframes
-842;Wireshark
-843;Wolfram Mathematica
-844;WooCommerce
-845;WordPress
-846;Wowza
-847;WPF
-848;WxWidgets
-849;X86 Baugruppe
-850;Xamarin
-851;XAML
-852;xcode
-853;Xen
-854;Xen Cloud-Plattform
-855;XHTML
-856;XML
-857;XMPP
-858;XPath
-859;XSLT
-860;Yandex.Cloud
-861;Yandex-Datenbank
-862;Yandex DataLens
-863;Yii-Framework
-864;YouTrack
-865;Justus
-866;Zabbix
-867;ZBrush
-868;Zend Framework
-869;Zennoposter
-870;Zeplin
-871;ZigBee
-872;z/OS
-873;Zurb-Stiftung
+14;ADO.NET
+15;ADO.NET entity framework
+16;AIOHTTP
+17;AIX
+18;APCS
+19;API-Schnittstellen
+20;API-Tests
+21;ARM architecture
+22;ASM
+23;ASP Classic
+24;ASP.NET
+25;ASP.NET MVC
+26;ASP.NET WEB API
+27;ASP.NET Webforms
+28;ATL
+29;AUTOSAR
+30;AVR C
+31;AWS
+32;Ableton live
+33;Akademisches Zeichnen
+34;Accessibility
+35;ActionScript
+36;Active directory
+37;Acunetix
+38;Adaptives Design
+39;Adaptives Layout
+40;Verwaltung 1C
+41;Verwaltung von Webian
+42;Adobe Acrobat
+43;Adobe After Effects
+44;Adobe Air
+45;Adobe Animate
+46;Adobe Audition
+47;Adobe Creative Suite 6
+48;Adobe Dreamweaver
+49;Adobe Edge Animate
+50;Adobe Fireworks
+51;Adobe Illustrator
+52;Adobe Indesign
+53;Adobe Muse
+54;Adobe Photoshop
+55;Adobe Premiere
+56;Adobe XD
+57;Aerospike
+58;Affiliate-Marketing
+59;Agile
+60;Ahrefs
+61;Airtable
+62;Ajax
+63;Akka
+64;Algorithmischer Werbeeinkauf
+65;Algorithmen
+66;Algorithmen und Datenstrukturen
+67;Allure
+68;Altium designer
+69;Amazon EKS
+70;AmoCRM
+71;Amplitude
+72;Android NDK
+73;Android SDK
+74;Android User Interface Guidelines
+75;Android-Entwicklung
+76;Android studio
+77;Angular
+78;Angular.js
+79;Animation
+80;Ansi C
+81;Ansible
+82;Ant
+83;Apache
+84;Apache Airflow
+85;Apache Camel
+86;Apache Cassandra
+87;Apache Cordova
+88;Apache CouchDB
+89;Apache Flex
+90;Apache Flink
+91;Apache Hadoop
+92;Apache JMeter
+93;Apache Kafka
+94;Apache Maven
+95;Apache NiFi
+96;Apache Spark
+97;Apache Struts
+98;Apache Subversion
+99;Apache Tomcat
+100;Apache2
+101;Apollo
+102;App Inventor
+103;Appium
+104;Applicability statement 2
+105;Design der Anwendungsarchitektur
+106;Anwendungssoftware
+107;Angewandte Mathematik
+108;Angewandte Kryptographie
+109;Appsflyer
+110;Arcgis
+111;Archicad
+112;Arduino
+113;Aris
+114;Kunstrichtung
+115;Artlantis
+116;Asana
+117;AsciiDoc
+118;Assembler
+119;Asterisk
+120;Asynchrone Programmierung
+121;Asyncio
+122;Atmel AVR
+123;Atmel AVR ASM
+124;Atom
+125;Kunden gewinnen
+126;Audioverarbeitung
+127;erweiterte Realität
+128;Aurelia
+129;Autocad
+130;Autodesk Maya
+131;Autoit
+132;Autolayout
+133;AvaloniaUI
+134;Avaya
+135;Axapta
+136;Axure
+137;Axure RP
+138;B2B
+139;B2C
+140;BEM
+141;BFT
+142;BGP
+143;BI
+144;BPMN
+145;Babel
+146;Babylon.js
+147;Backbone.js
+148;Balsamiq mockups
+149;Bamboo CI
+150;Bannererstellung
+151;Bash
+152;Batch Script
+153;Behat
+154;Große Daten
+155;Entwicklung von Abrechnungssystemen
+156;Bitcoin
+157;Bitrix24
+158;Black box testing
+159;Blazor
+160;Blender
+161;Blockchain
+162;Bloggen
+163;Buchlayout
+164;Boost
+165;Border Gateway Protocol
+166;Bower
+167;Box2d
+168;Brand
+169;Branding
+170;Entwicklung von Browsererweiterungen
+171;Bubble
+172;Buddy
+173;Bug-Tracking
+174;Geschäftsmodelle aufbauen
+175;Burp Suite
+176;Geschäftsprozessoptimierung
+177;Geschäftsanalysen
+178;Unternehmensberatung
+179;Geschäftsentwicklung
+180;Business intelligence
+181;Geschäftsmodellierung
+182;Geschäftliche Planung
+183;Geschäftsprozessmanagement
+184;Entwicklung einer Geschäftsstrategie
+185;Bytecode Viewer
+186;C
+187;C#
+188;C++
+189;C++ boost
+190;C++-Builder
+191;C++ stl
+192;CAD
+193;CCNA
+194;CCS
+195;CI/CD
+196;CIO
+197;CNC-Programmierung
+198;CRM-Entwicklung
+199;CS-Cart
+200;CSS
+201;CSS processors
+202;CSS-in-JS
+203;Caché ObjectScript
+204;Cacti
+205;Caffe
+206;CakePHP
+207;Calabash
+208;Kalligraphie
+209;Camunda
+210;Canvas
+211;Capistrano
+212;Capybara
+213;Celery
+214;Centos
+215;Änderungsmanagement
+216;Channel
+217;Chaplin.js
+218;Charakteranimation
+219;Charakterentwicklung
+220;Charles
+221;Chef
+222;Cinema 4d
+223;Circle CI
+224;Schaltungsdesign
+225;Cisco CCNA
+226;Cisco CCNP
+227;Cisco-Geräteverwaltung
+228;Citrix
+229;Clarion
+230;Clean Architecture
+231;ClickHouse
+232;Client-Server-Anwendungen
+233;Clojure
+234;Cloud Computing
+235;Cmake
+236;Coaching
+237;Cocoa
+238;Cocoa touch
+239;Cocos2d
+240;Cocos2d-iPhone
+241;Cocos2d-x
+242;Codeoptimierung
+243;Codeception
+244;Codeigniter
+245;CoffeeScript
+246;Coldfusion
+247;Collagen
+248;Farbkorrektur
+249;Comicmachen
+250;Common lisp
+251;Firmenmanagement
+252;Compass
+253;Kompass 3d
+254;Compiler
+255;Kompilieren eines semantischen Kerns
+256;Composer
+257;Compositing
+258;Computer Engineering
+259;Computer Science
+260;Einrichtung und Reparatur von Computergeräten
+261;Computergrafik
+262;Computer Vision
+263;Computergestütztes Designsystem
+264;Konzeptkunst
+265;Konzeptentwicklung
+266;Durchführung von Interviews
+267;Konfigurationsmanagement
+268;Anschlusspläne
+269;Consul
+270;Beratung
+271;Content-Management
+272;Inhaltsvermarktung
+273;Contentful
+274;Werbetexten
+275;Core graphics
+276;CoreData
+277;Corel Draw
+278;Corel Painter
+279;Corona SDK
+280;Coroutines
+281;Unternehmenskommunikation
+282;Entwicklung der Corporate Identity
+283;Cortex-M3
+284;Animation erstellen
+285;Zeichnungen erstellen
+286;Erstellen einer Corporate Identity
+287;Visitenkarten erstellen
+288;Erstellen von Flash-Animationen
+289;Icons erstellen
+290;Infografiken erstellen
+291;Skizzen erstellen
+292;Soundeffekte erstellen
+293;Visuelle Effekte erstellen
+294;Creatio CRM
+295;Erstellung von Konzepten
+296;Erstellung kreativer Konzepte
+297;Erstellung von Projektarchitekturen
+298;Erstellung von Telegram-Bots
+299;Browserübergreifendes Layout
+300;Plattformübergreifende Entwicklung
+301;Kryptographie
+302;Crystal
+303;Cucumber
+304;Cuda
+305;Kundendienst
+306;Kundendienst
+307;Cygwin
+308;Cypress
+309;D
+310;D3.js
+311;DBA
+312;DBIx::Class
+313;DBMS InterSystems-Cache
+314;DBMS InterSystems Cache
+315;DDD
+316;DDOS-Schutz
+317;DHCP
+318;DITA
+319;DNS
+320;DWH
+321;Dagger 2
+322;Dart
+323;Dash
+324;Datenanalyse
+325;Datenschutz
+326;Datenbank
+327;Datenbankverwaltung
+328;Datenbank Design
+329;Datalife engine
+330;Datamining
+331;Datawrapper
+332;Debian
+333;Deep Learning
+334;Delphi
+335;Beschreibung von Geschäftsprozessen
+336;Design
+337;Designmuster
+338;Designmuster
+339;Design und Bau von SCS
+340;Design und Installation von LAN
+341;Design in Axure
+342;Designsystem
+343;Designtests
+344;DevExpress
+345;DevOps
+346;DevRel
+347;DevSecOps
+348;Entwicklung für 1C
+349;Entwicklung für AR und VR
+350;Entwicklung für Windows Phone
+351;Entwicklungsmanagement
+352;Entwicklung kreativer Kommunikationsstrategien
+353;Entwicklung von Informationssicherheitssystemen
+354;Entwicklung von Integrationslösungen
+355;Entwicklung von Online-Shops
+356;Entwicklung technischer Spezifikationen
+357;Entwicklung von Videoüberwachungssystemen
+358;Digitaler Signalprozessor
+359;Digitale Medien
+360;Digitale Zeichnung
+361;DirectX
+362;Werbung anzeigen
+363;Verteiltes Rechnen
+364;Django
+365;DocBook
+366;Docker
+367;Doctrine
+368;Doctrine2
+369;Document Object Model
+370;Documentum
+371;Dojo
+372;Domain Specific Languages
+373;Zeichnung
+374;Treiberentwicklung
+375;Drupal
+376;E-Commerce
+377;ELK Stack
+378;ER-Diagramme
+379;ERM
+380;ETL
+381;Echo
+382;Eclipse
+383;Lektorat und Korrekturlesen
+384;Edius
+385;Effector
+386;Elasticsearch
+387;Electron
+388;Elektronikentwicklung
+389;Elixir
+390;Elm
+391;E-Mail Marketing
+392;E-Mail-Layout
+393;Embedded linux
+394;Eingebettetes System
+395;Ember.js
+396;Emmet
+397;Enterprise
+398;Unternehmensstruktur
+399;Enterprise JavaBeans
+400;Enterprise Service Bus
+401;Entity framework
+402;Erlang
+403;Erlang/OTP
+404;Ethereum
+405;Ethernet 802.1Q
+406;Veranstaltungsmanagement
+407;Exim
+408;Express
+409;Ext JS
+410;Externe Optimierung
+411;F#
+412;FFmpeg
+413;FHIR
+414;FPGA
+415;Facebook API
+416;Falcon
+417;FastAPI
+418;Fastlane
+419;Figma Design
+420;Filemaker
+421;Final Cut Pro X
+422;Finanzanalyse
+423;Fine BI
+424;Firebird
+425;Firewall
+426;Fl studio
+427;Flash-Programmierung
+428;Flask
+429;Flaches Design
+430;Flex
+431;Flow
+432;Flutter
+433;Flutter Bloc
+434;Flutter Riverpod
+435;Schriftentwicklung
+436;Forensik
+437;Forth
+438;Fortran
+439;Foundation
+440;Kostenlose Suchtests
+441;FreeBSD
+442;FreeBSD-Administration
+443;FreeMarker Template Engine
+444;Freihandzeichnung
+445;Freeswitch
+446;Frida
+447;FuelPHP
+448;Fullstack
+449;Funktionale Programmierung
+450;Funktionsprüfung
+451;GCD
+452;GDScript
+453;GIMP
+454;GIS
+455;GLSL
+456;GNU
+457;GNU Compiler collection
+458;GNU Make
+459;GTK+
+460;GUI-Design
+461;GWT
+462;Game Maker Language (GML)
+463;Spieldesign
+464;Spieleentwicklung
+465;Gearman
+466;Generierung von Ideen
+467;Gentoo
+468;Geografisches Informationssystem
+469;Gevent
+470;Ghidra
+471;Gin
+472;Git
+473;Git-Flow
+474;GitHub
+475;GitHub Actions
+476;GitHub Deployments
+477;GitLab
+478;Global
+479;Godot Engine
+480;Golang
+481;Google AdWords
+482;Google Analytics
+483;Google App Engine
+484;Google BigQuery
+485;Google Cloud Platform
+486;Google Firebase
+487;Google Kubernetes Engine
+488;Google Maps API
+489;Google Partners
+490;Google Search Console
+491;Google Tag Manager
+492;Gradle
+493;Grafana
+494;Grails framework
+495;Grape
+496;GraphQL
+497;Grafikdesign
+498;Grafiken für Spiele
+499;Graylog
+500;Groovy
+501;Growth hacking
+502;Grunt
+503;Gulp
+504;HP LoadRunner
+505;HTML
+506;HTML-Anwendungen
+507;HTTP
+508;Haml
+509;HashiCorp Vault
+510;Haskell
+511;Haxe
+512;Hibernate
+513;Hohe Verfügbarkeit
+514;Highcharts.js
+515;Hochbelastete Systeme
+516;Host CMS
+517;Houdini
+518;Hyper-v
+519;Hyper-V-Virtualisierung
+520;IBM Db2
+521;IBM WebSphere
+522;IDA Pro
+523;IDS
+524;IIS
+525;IPS Community Suite
+526;IT Beratung
+527;IT-Service-Management
+528;ITIL
+529;Icon-Design
+530;Bildverarbeitung
+531;Implementierung von CRM
+532;Implementierung von Gamification
+533;Umsetzung der Monetarisierung
+534;Erhöhte Konvertierung
+535;Industrielles Design
+536;Informationsdesign
+537;Informationssicherheit
+538;Informationstechnologie
+539;Informationsarchitektur
+540;Gestaltung von Informationssystemen
+541;Inkscape
+542;Insales
+543;Installation und Wartung von Bürogeräten
+544;Installation von Kommunikationssystemen
+545;Intellij IDEA
+546;Interaktionsdesign
+547;Interaktion mit Regierungsbehörden
+548;Interaktives Design
+549;Interbase
+550;Schnittstellen-Design
+551;Schnittstellenentwicklung
+552;Innenarchitektur
+553;Interne und externe Optimierung
+554;Interne Optimierung
+555;Internet Marketing
+556;Ionic
+557;Iptables
+558;J2ME
+559;JBoss Application Server
+560;JBoss EJB3
+561;JDBC
+562;JFrog
+563;JOOQ
+564;JQuery
+565;JQuery Mobile
+566;JQuery UI
+567;JSF
+568;JSON
+569;JSS
+570;JTBD
+571;Jackson
+572;Jade
+573;Jasmine
+574;Java
+575;Java EE
+576;Java Persistence API
+577;Java SE
+578;Java Servlet
+579;Java Spring Framework
+580;Java core
+581;Java message service
+582;JavaFX
+583;JavaScript
+584;Jee
+585;Jenkins
+586;Jest
+587;Jira
+588;Jmix
+589;Joomla
+590;Journalismus
+591;Julia
+592;Juniper
+593;Geräteverwaltung von Juniper Networks
+594;Junit
+595;Jupyter Notebook
+596;Jurisprudenz
+597;KVM
+598;Kanban
+599;Karma
+600;Kaspersky Endpoint Security
+601;Kendo UI
+602;Keras
+603;Kerio
+604;Keynote
+605;Knockout.js
+606;Kohana framework
+607;Kotlin
+608;Ktor
+609;Kubernetes
+610;LAMP-Verwaltung
+611;LDAP
+612;LESS
+613;Labview
+614;Lamp
+615;Landungsdesign
+616;Landingpage-Layout
+617;Laravel
+618;Latex
+619;Layout
+620;Layout von Druckerzeugnissen
+621;Layout gedruckter Publikationen
+622;Lazarus
+623;Lead-Generierung
+624;Leaflet
+625;Mager
+626;Lean Startup
+627;Lean startup
+628;Beschriftung
+629;Level-Design
+630;LibGDX
+631;Bibliothek mit Standardvorlagen
+632;Liferay
+633;Link Building
+634;Linq
+635;Linux
+636;Linux-Administration
+637;Linux kernel
+638;Lisp
+639;Lit Elements
+640;Alphabetisierung
+641;Literarische Redaktion
+642;Literarische Übersetzung
+643;Livestreet
+644;Logo Design
+645;Lotus Domino
+646;Low-Level-Programmierung
+647;Low-Poly-Modellierung
+648;Lua
+649;Lync
+650;MFC
+651;MODX CMS
+652;MODX EVO
+653;MODX REVOLUTION
+654;MPLS
+655;MQL4
+656;MQTT
+657;MS SQL-Administration
+658;MSP
+659;MSP430
+660;MVVM
+661;MVVM WS WCF
+662;Mac
+663;Maschinelles Lernen
+664;Magento
+665;Verwaltung des Mailservers
+666;Mailchimp
+667;Malware-Analyse
+668;Management von Risiken
+669;Manticore
+670;Manuelles Testen
+671;Mapreduce
+672;Marionette.js
+673;Markdown
+674;Marktüberwachung und -analyse
+675;Marktforschung
+676;Marktforschung
+677;Marvel App
+678;MatPlotLib
+679;Material Design
+680;MaterializeCSS
+681;Mathematische Modellierung
+682;Mathe-Statistik
+683;MathCAD
+684;Mathematik
+685;Matlab
+686;Matte painting
+687;McAfee DLP
+688;Medienmanagement
+689;Medien Planung
+690;Memcache
+691;Mercurial
+692;Schnittstelle zur Nachrichtenübermittlung
+693;Meteor.js
+694;Mikrocontroller-Programmierung
+695;Microservice-Architektur
+696;Microsoft Access
+697;Microsoft Dynamic CRM
+698;Microsoft Dynamics CRM
+699;Microsoft Dynamics NAV
+700;Microsoft Excel
+701;Microsoft Exchange Server
+702;Microsoft Office
+703;Microsoft PowerPoint
+704;Microsoft Project
+705;Microsoft SQL
+706;Microsoft SQL Server
+707;Microsoft Silverlight
+708;Microsoft Visio
+709;Microsoft Word
+710;Microsoft Xna
+711;Mikrotik
+712;MobX
+713;Mobile
+714;Mobiles App-Marketing
+715;Design mobiler Anwendungen
+716;Entwicklung mobiler Anwendungen
+717;Testen mobiler Anwendungen
+718;Mocha
+719;Modell C4
+720;Modellieren
+721;Mäßigung
+722;Mojolicious
+723;Moleculer.js
+724;MongoDB
+725;Überwachung
+726;Mootools
+727;Mudbox
+728;Multiregionale Website-Werbung
+729;Multiprotokoll-Label-Switching
+730;Multithreading
+731;MyBatis
+732;MySQL
+733;MySQLi
+734;NATS
+735;NW.js
+736;Nagios
+737;Benennung
+738;NativeScript
+739;Verarbeitung natürlicher Sprache
+740;Verhandlung
+741;Neo4j
+742;NestJS
+743;NetBackup
+744;Netbeans
+745;Netcat CMS
+746;Netty
+747;Netzwerk-Design
+748;Netzwerksicherheit
+749;Netzwerkadministration
+750;Netzwerküberwachung
+751;Netzwerktechnologien
+752;Neuronale Netze
+753;New business development
+754;Neue Medien
+755;Next.js
+756;Nginx
+757;Nhibernate
+758;Nightwatch.js
+759;NoSQL
+760;Node.js
+761;Notepad++
+762;Nuke
+763;NumPy
+764;Nunit
+765;Nuxt.js
+766;OData
+767;OLAP
+768;OOP
+769;OSGI
+770;OSPF
+771;OWASP
+772;Objektorientiertes Design
+773;Objektrelationale Zuordnung
+774;Ziel c
+775;October Cms
+776;Onboarding
+777;OpenAPI Specification
+778;OpenCL
+779;OpenCV
+780;OpenEdge ABL
+781;OpenGL
+782;OpenGL ES
+783;OpenMP
+784;OpenVPN
+785;OpenVZ
+786;Opencart
+787;Openstack
+788;Operations
+789;Optimierung für soziale Netzwerke
+790;Oracle
+791;Oracle-Administration
+792;Oracle DBA
+793;Oracle E-Business Suite
+794;Oracle Engineered Systems
+795;Oracle PL
+796;Oracle PL/SQL
+797;Oracle SQL
+798;Oracle Siebel CRM
+799;Oracle Solaris
+800;Oracle Workflow
+801;Oracle application express
+802;Oracle weblogic server
+803;Organisation von Geschäftsprozessen
+804;Organisation von Veranstaltungen
+805;Organisation der Arbeit mit CRM
+806;Organisationsentwicklung
+807;Osi model
+808;Gestaltung von Außenwerbung
+809;PC-Reparatur und Wartung
+810;PCB-Design
+811;PCB-Entwicklung
+812;PCI DSS
+813;PHP
+814;PHPMyAdmin
+815;PLC
+816;SPS-Programmierung
+817;PMBOK
+818;PWA
+819;Paketdesign
+820;Paint Tool SAI
+821;Malerei
+822;Pandas
+823;Parallax
+824;Parallele Programmierung
+825;Parser3
+826;Parsing
+827;Pascal
+828;Pawn
+829;Payment gateways
+830;Penetrationstests
+831;Mitarbeiterführung
+832;Performance
+833;Leistungstest
+834;Performance tuning
+835;Perl
+836;Phalcon
+837;Phantom.js
+838;Phoenix
+839;PhoneGap
+840;Fotobearbeitung
+841;Foto Nachbearbeitung
+842;Fotografie
+843;PhpUnit
+844;Pic microcontroller
+845;Pixelgrafiken
+846;Pixel-perfect
+847;Pixelmator
+848;Pixi.js
+849;Planung
+850;Play
+851;Playwright
+852;Point Cloud Library
+853;Polymer (library)
+854;Portraitfotografie
+855;Posix
+856;PostCSS
+857;PostGIS
+858;Postfix
+859;PostgreSQL
+860;Postman
+861;PowerBI
+862;PowerBuilder
+863;PowerScript
+864;Powershell
+865;Ppc
+866;Vorbereitung der Druckvorstufe
+867;Pre-sale
+868;Präsentationen
+869;PrestaShop
+870;PrimeFaces
+871;Druckdesign
+872;Prism
+873;Probleme lösen
 874;Prozessautomatisierung
-875;Testautomatisierung
-876;Adaptives Layout
-877;Sich anpassendes Design
-878;Verwaltung 1C
-879;FreeBSD verwalten
-880;LAMP-Verwaltung
-881;Linux-Administration
-882;MS SQL-Administration
-883;Verwaltung *nix
-884;Oracle-Administration
-885;Windows-Administration
-886;Datenbankverwaltung
-887;Webian-Administration
-888;Cisco-Hardware-Administration
-889;Verwaltung der Geräte von Juniper Networks
-890;Verwaltung des Mailservers
-891;Website-Administration
-892;Serveradministration
-893;Netzwerkadministration
-894;Akademisches Zeichnen
-895;Algorithmischer Werbeeinkauf
-896;Algorithmen
-897;Algorithmen und Datenstrukturen
-898;Datenanalyse
-899;Anforderungsanalyse
-900;Charakteranimation
-901;Kunstregie
-902;Unternehmensstruktur
-903;Asynchrone Programmierung
-904;APCS
-905;Website-Audit
-906;Affiliate-Marketing
-907;Bug-Tracking
-908;Datenbanken
-909;Netzwerksicherheit
-910;Schlanke Fertigung
-911;Lean Startup
-912;Kabellose Technologie
-913;Bibliothek mit Standardvorlagen
-914;Geschäftsanalysen
-915;Unternehmensberatung
-916;Geschäftsmodellierung
-917;Geschäftliche Planung
-918;Bitrix24
-919;Große Daten
-920;Branding
-921;BEM
-922;Projektbudgetierung
-923;Gültiges Layout
-924;Netz Analyse
-925;Web-Design
-926;Web Entwicklung
-927;Bloggen
-928;Verhandeln
-929;Vektorgrafiken
-930;Risikoinvestitionen
-931;E-Mail-Layout
-932;Buchlayout
-933;Landeplan
-934;Drucken von Veröffentlichungen
-935;Layout von Druckerzeugnissen
-936;Interaktion mit Regierungsbehörden
-937;Videodesign
-938;Video Streaming
-939;Visualisierung
-940;Virtualisierung
-941;Hyper-V-Virtualisierung
-942;Virales Marketing
-943;VKS
-944;CRM-Implementierung
-945;Einführung von Gamification
-946;Einführung der Monetarisierung
-947;Externe Optimierung
-948;Interne und externe Optimierung
-949;Interne Optimierung
-950;Eingebettetes System
-951;Hohe Verfügbarkeit
-952;Hochbelastete Systeme
-953;Generierung von Ideen
-954;Geoinformationssysteme
-955;Alphabetisierung
-956;Grafiken für Spiele
-957;Grafik-Design
-958;Datamining
-959;Diagramme verknüpfen
-960;Vkontakte-Gruppendesign
-961;Spieldesign
-962;Icon-Design
-963;Innenarchitektur
-964;Designkonzepte
-965;Landungsdesign
-966;Logo Design
-967;Design mobiler Anwendungen
-968;Gestaltung von Außenwerbung
-969;Produktdesign
-970;Verpackungsdesign
-971;Level-Design
-972;Druckvorstufe
-973;erweiterte Realität
-974;Malen
-975;Journalismus
-976;Informationssicherheit
-977;DDOS-Schutz
-978;Tontechnik
-979;Interaktives Design
-980;Internet Marketing
-981;Messaging-Schnittstelle
-982;Informationsarchitektur
-983;Informationssicherheit
-984;Informationstechnologie
-985;Informationsdesign
-986;Benutzerforschung
-987;Marktforschung
-988;Kalligraphie
-989;Client-Server-Anwendungen
-990;Collagen
-991;Kompass 3d
-992;Compiler
-993;Compositing
-994;Layout
-995;Computergrafik
-996;Computer Vision
-997;Beratung
-998;Personalberatung
-999;Kontextwerbung
-1000;Inhaltsvermarktung
-1001;Qualitätskontrolle
-1002;Konfigurationsmanagement
-1003;Konzeptkunst
-1004;Werbetexten
-1005;Unternehmenskommunikation
-1006;Coaching
-1007;Kryptographie
-1008;Crossbrowser-Layout
-1009;Plattformübergreifende Entwicklung
-1010;Beschriftung
-1011;Lead-Generierung
-1012;Literarische Redaktion
-1013;Softwarelokalisierung
-1014;Mobiles Anwendungsmarketing
-1015;Marktforschung
-1016;Routenführung
-1017;Mathematik
-1018;Mathematische Statistik
-1019;Mathematische Modellierung
-1020;Maschinelles Lernen
-1021;Medien Planung
-1022;Werbung anzeigen
-1023;Multithreading
-1024;Multiprotokoll-Label-Switching
-1025;Simulation
-1026;Mäßigung
-1027;Unit-Tests
-1028;Überwachung
-1029;Überwachung und Marktanalyse
-1030;Netzwerküberwachung
-1031;Videobearbeitung
-1032;Installation von Kommunikationssystemen
-1033;Karikatur
-1034;Belastungstest
-1035;Schreibanweisungen
-1036;Musik komponieren
-1037;Drehbuchschreiben
-1038;VPN-Einrichtung
-1039;Einrichten und Anpassen von Geräten
-1040;Einrichten und Reparieren von Computergeräten
-1041;Cisco-Hardwarekonfiguration
-1042;Einrichten von Büro-Telefonanlagen
-1043;Forschungsarbeit
-1044;Benennung
-1045;Neuronale Netze
-1046;Low-Poly-Modellierung
-1047;Low-Level-Programmierung
-1048;Neue Medien
-1049;Qualitätskontrolle
-1050;Cloud Computing
-1051;Verarbeitung natürlicher Sprache
-1052;Klangverarbeitung
-1053;Bildverarbeitung
-1054;Verarbeitung fortsetzen
-1055;Fotos bearbeiten
-1056;Reverse Engineering
-1057;Kundendienst
-1058;Persönliches Training
-1059;Objektorientiertes Design
-1060;Objektrelationale Zuordnung
-1061;Voice-over
-1062;OOP
-1063;Echtzeit-Betriebssystem
-1064;Beschreibung von Geschäftsprozessen
-1065;Geschäftsprozessoptimierung
-1066;Codeoptimierung
-1067;Optimiert für soziale Netzwerke
-1068;Organisationsentwicklung
-1069;Organisation von Geschäftsprozessen
-1070;Organisation von Veranstaltungen
-1071;Organisation der Arbeit mit CRM
-1072;Löten von Funkkomponenten
-1073;Parallele Programmierung
-1074;Parsing
-1075;Designmuster
-1076;Pixelgrafiken
-1077;Planung
-1078;Flaches Design
-1079;Erhöhte Konvertierung
-1080;Kaderauswahl
-1081;Suche nach Führungskräften
-1082;Auswahl von Spezialisten
-1083;Kundendienst
-1084;Site-Unterstützung
-1085;Suchmaschinenoptimierung
-1086;Suche nach Talenten
-1087;Druckdesign
-1088;Portraitfotografie
-1089;Geschäftsmodelle aufbauen
-1090;Teambildung
-1091;Objektvisualisierung
-1092;Objektfotografie
-1093;Präsentation
-1094;Lehrtätigkeit im IT-Bereich
-1095;Kundengewinnung
-1096;Angewandte Kryptographie
-1097;Angewandte Mathematik
-1098;Anwendungssoftware
-1099;Ein Interview führen
-1100;Forschung
-1101;Mikrocontroller programmieren
-1102;SPS-Programmierung
-1103;NC-Programmierung
-1104;Softwareentwicklung
-1105;Verkauf
-1106;HR-Vertrieb
-1107;Förderung von Projekten
-1108;Produktmarketing
-1109;Hersteller
-1110;Design
-1111;Design der Anwendungsarchitektur
-1112;Datenbank Design
-1113;Entwerfen in Axure
-1114;Interaktionsdesign
-1115;Schnittstellen-Design
-1116;Gestaltung von Informationssystemen
-1117;Design und Installation von LAN
-1118;Design und Bau von SCS
-1119;Website design
-1120;Netzwerk-Design
-1121;Projektplanung
-1122;Industrielles Design
-1123;Code ansehen
-1124;Prototyp entwickeln
-1125;Öffentliches Reden
-1126;Pünktlichkeit
-1127;Zusammenarbeit
-1128;Arbeiten mit Audio und Video
-1129;Geschäftsentwicklung
-1130;CRM-Entwicklung
-1131;Entwicklung einer SEO-Strategie
-1132;Entwicklung einer Geschäftsstrategie
-1133;Entwicklung von Browsererweiterungen
-1134;Treiber entwickeln
-1135;Spieleentwicklung
-1136;Entwicklung von Online-Shops
-1137;Schnittstellenentwicklung
-1138;Entwicklung kreativer Kommunikationsstrategien
-1139;Entwicklung mobiler Anwendungen
-1140;Charakter-Design
-1141;PCB-Design
-1142;Entwicklung unter 1C
-1143;Android-Entwicklung
-1144;Entwicklung für AR und VR
-1145;IOS-Entwicklung
-1146;Windows Phone-Entwicklung
-1147;Software-Entwicklung
-1148;Produktentwicklung
-1149;Entwicklung einer Produktstrategie
-1150;Gestaltung von Integrationslösungen
-1151;Entwicklung von Abrechnungssystemen
-1152;Entwicklung von Videoüberwachungssystemen
-1153;Entwicklung von Informationssicherheitssystemen
-1154;Testfälle entwickeln
-1155;Entwicklung technischer Spezifikationen
-1156;Entwicklung der Corporate Identity
-1157;Testgetriebene Entwicklung
-1158;Schriftentwicklung
-1159;Elektrotechnik
-1160;RPA-Entwickler
-1161;Storyboard
-1162;Website-Werbung
-1163;Verteiltes Rechnen
-1164;Rastergrafiken
-1165;Regressionstests
-1166;Reguläre Ausdrücke
-1167;Lektorat und Korrekturlesen
-1168;Rekrutierung
-1169;Reparatur und Wartung von Bürogeräten
-1170;PC-Reparatur und Wartung
-1171;Rendern
-1172;Reportagefoto
-1173;Umschreiben
-1174;Retusche
-1175;Probleme lösen
-1176;Zeichnung
-1177;Freihandzeichnung
-1178;Projektmanager 1C
-1179;Startup-Führung
-1180;Manuelles Testen
-1181;C++-Builder
-1182;CAD
-1183;Audiogestaltung
-1184;Öffentlichkeitsarbeit
-1185;Semantisches Layout
-1186;Semantisches Web
-1187;Netzwerksicherheit
-1188;Vernetzung
-1189;SAN
-1190;Synchrone digitale Hierarchie
-1191;Computergestütztes Design
-1192;Systemanalyse
-1193;System Integration
-1194;Systemadministration
-1195;Systemprogrammierung
-1196;Systemanalyse
-1197;Virtualisierungssysteme
+875;Produzieren
+876;Produktdesign
+877;Produkt Management
+878;Produktmarketing
+879;Produktentwicklung
+880;Produktfotografie
+881;Entwicklung einer Produktstrategie
+882;Product training
+883;Programm-Management
+884;Projektbudgetierung
+885;Projektmanager 1C
+886;Projektmanagement
+887;Projektplanung
+888;Projektförderung
+889;Projektunterstützung
+890;Prolog
+891;Prometheus
+892;Protobuf
+893;Prototyp entwickeln
+894;Öffentlicher Auftritt
+895;Öffentlichkeitsarbeit
+896;Pug
+897;Pünktlichkeit
+898;Puppet
+899;Pure C
+900;PyQT
+901;PyTorch
+902;Pyramid
+903;Python
+904;QML
+905;QNX
+906;Qt
+907;QT QML
+908;Qemu
+909;Qlik Sense
+910;QlikView
+911;QoS / ETS (Enhanced Transmission Selection) RFC
+912;Qualitätskontrolle
+913;Qualitätskontrolle
+914;QuarkXPress
+915;Quarkus
+916;R
+917;RDMA
+918;REST
+919;REST Assured
+920;RESTful API
+921;RESTful WebServices.
+922;RGB
+923;RPA-Entwickler
+924;RSpec
+925;RTL
+926;RabbitMQ
+927;Rastergrafiken
+928;React
+929;React Native
+930;Reaktive Programmierung
+931;Echtzeit-Betriebssystem
+932;RealBig
+933;Realm
+934;Realtime
+935;ReasonML
+936;ReasonReact
+937;Recoil
+938;Rekrutierung
+939;Personalberatung
+940;Red Hat
+941;Red Hat Enterprise Linux
+942;Red Hat Linux
+943;Redis
+944;Redmine
+945;Redux
+946;Regex
+947;Regressionstests
+948;Reguläre Ausdrücke
+949;Reinforcement learning
+950;Rendern
+951;Reparatur und Wartung von Bürogeräten
+952;Reportagefotografie
+953;Require.js
+954;Anforderungsanalyse
+955;Forschungsarbeit
+956;Recherchieren
+957;Responsys
+958;Verarbeitung fortsetzen
+959;Retusche
+960;Retrofit
+961;Reverse Engineering
+962;Umschreiben
+963;Riak
+964;RnD
+965;Robot Framework
+966;Room
+967;Routenführung
+968;Ruby
+969;Ruby on Rails
+970;Rust
+971;RxJava 2
+972;RxSwift
+973;SAP
+974;SAP BI
+975;SAP Business Objects BI
+976;SAP ERP
+977;SAP HCM
+978;SAP HR
+979;SAP Hybris
+980;SAP PM
+981;SAP S/4 HANA
+982;SAP SD/MM
+983;SAP TM
+984;SAP-Referenzdaten
+985;SAS
+986;SAST/DAST
+987;SCSS
+988;SDL/SDLC
+989;SE Ranking
+990;SEO-Optimierung
+991;SEO-Website-Audit
+992;SIEM
+993;SIP
+994;SMB
+995;SMM
+996;SOA
+997;SOAP
+998;SOLID
+999;SQL
+1000;SQL Server Reporting Services
+1001;SQLalchemy
+1002;SQLite
+1003;SRE
+1004;SSAS
+1005;SSDL
+1006;SSH
+1007;SSIS
+1008;STM32
+1009;SVG
+1010;SVN
+1011;SW/HW
+1012;Saas
+1013;Sails.js
+1014;Verkäufe
+1015;Vertrieb von HR-Dienstleistungen
+1016;Salesforce
+1017;Samba
+1018;Sanic
+1019;Sass
+1020;Scada
+1021;Scala
+1022;Scheme
+1023;Scrapy
+1024;Scratch
+1025;Screaming Frog
+1026;Skriptprogrammierung
+1027;Drehbuchschreiben
+1028;Scrum
+1029;Scrum Master
+1030;Suchmaschinenoptimierung
+1031;Auswahl der Manager
+1032;Auswahl von Spezialisten
+1033;Selenide
+1034;Selenium
+1035;Semantisches Web
+1036;Semantisches Layout
+1037;Sencha touch
+1038;Sentry
+1039;SerpStat
+1040;Serververwaltung
+1041;Server-side rendering
+1042;Service Discovery
+1043;Einrichten von Cisco-Geräten
+1044;Einrichten eines VPN
+1045;Einrichtung und Inbetriebnahme von Geräten
+1046;Einrichten von Büro-Mini-PBX-Anlagen
+1047;Shader
+1048;Sharepoint
+1049;Shell
+1050;Shell scripting
+1051;Videoaufnahmen
+1052;Siemens NX
+1053;Signalr
+1054;Silex
+1055;Simatic step7
+1056;Simpla CMS
+1057;Sinatra
+1058;Sketch
+1059;Slim
+1060;Smalltalk
+1061;Smart TV
+1062;SmartCards
+1063;Smarty
+1064;Socket.io
+1065;Steckdosen
+1066;Softwareentwicklung
+1067;Software-Anforderungsmanagement
+1068;Softwarespezifikation
+1069;Software-Entwicklung
+1070;Softwarelokalisierung
+1071;Softwaretest
+1072;Solana
+1073;Löten von Funkkomponenten
+1074;SolidWorks
+1075;Solidity
+1076;Solr
+1077;SonarQube
+1078;Sonatype Nexus
+1079;Sony Vegas
+1080;Sony Vegas Pro
+1081;Audiogestaltung
+1082;Tontechnik
+1083;Sphinx
+1084;Splunk
+1085;Spring Boot
+1086;Squid
+1087;Starling
+1088;Startup-Management
+1089;StatsModels
+1090;Speicherbereichsnetz
+1091;Storyboard
+1092;Storybook
+1093;Strapi
+1094;Strategische Kommunikation
+1095;Strategisches Marketing
+1096;Strategisches Management
+1097;Strategische Planung
+1098;Belastbarkeitstest
+1099;Strukturiertes Verkabelungssystem
+1100;Stylus
+1101;Themenvisualisierung
+1102;Sublime Text
+1103;SugarCRM
+1104;Svelte.js
+1105;Swagger
+1106;Swift
+1107;SwiftUI
+1108;Swing
+1109;Switching
+1110;Sybase
+1111;Symfony
+1112;Synchrone digitale Hierarchie
+1113;Systemprogrammierung
+1114;Systemadministration
+1115;Systemanalyse
+1116;Systemanalyse
+1117;System Integration
+1118;SystemC
+1119;SystemVerilog
+1120;T-SQL
+1121;TCP
+1122;TDD/BDD
+1123;TOGAF
+1124;TYPO3
+1125;Tableau
+1126;Talentsuche
+1127;Tarantool
+1128;Gezielte Werbung
+1129;Lehrtätigkeit im IT-Bereich
+1130;Team Foundation Server
+1131;Teambildung
+1132;Teamauswahl
+1133;TeamCity
+1134;Zusammenarbeit
+1135;Technischer Direktor
+1136;Technisches Design
+1137;Technische Dokumentation
+1138;Technische Unterstützung
+1139;Technische Übersetzung
+1140;Telekommunikation
+1141;TensorFlow
+1142;Terraform
+1143;Testgetriebene Entwicklung
+1144;Testautomatisierung
+1145;Entwicklung von Testfällen
+1146;TestLink
+1147;TestNG
+1148;TestRail
+1149;Textübersetzung
+1150;Texturierung
+1151;Bedrohungsanalyse
+1152;Three.js
+1153;Tilda
+1154;Titanium
+1155;Tornado Web Server
+1156;Touch-Eingabe
+1157;Ausbildung
+1158;Trello
+1159;Twig
+1160;Twisted
+1161;Twitter Bootstrap
+1162;TypeORM
+1163;TypeScript
+1164;Typografie
+1165;UI/UX-Design
+1166;UIKit
+1167;UMI.CMS
+1168;UML
+1169;UVM
+1170;UWSGI
+1171;UX-Texterstellung
+1172;UX-Tests
+1173;Ubuntu
+1174;Underscore.js
+1175;Einheitenökonomie
+1176;Unit-Tests
+1177;Unity3d
+1178;Unix
+1179;Unix Shell Scripting
+1180;Unreal Engine
+1181;Benutzerforschung
+1182;V-Ray
+1183;VBScript
+1184;VHDL
+1185;VK API
+1186;VKS
+1187;VKontakte-Gruppendesign
+1188;VMWare ESXi
+1189;VMware
+1190;VPS
+1191;Vaadin
+1192;Vagrant
+1193;Gültiges Layout
+1194;Vanilla.js
+1195;Vektorgrafiken
+1196;Risikoinvestitionen
+1197;Verilog HDL
 1198;Versionskontrollsysteme
-1199;Skriptprogrammierung
-1200;Blinddruck
-1201;SQL Server Reporting Services
-1202;Erstellen von Flash-Animationen
-1203;Erstellen Sie eine Animation
-1204;Erstellen einer Projektarchitektur
-1205;Banner erstellen
-1206;Visitenkarten erstellen
-1207;Visuelle Effekte erstellen
-1208;Soundeffekte erstellen
-1209;Icons erstellen
-1210;Infografiken erstellen
-1211;Comics erstellen
-1212;Konzepte erstellen
-1213;Kreative Konzepte erstellen
-1214;Skizzen erstellen
-1215;Erstellen einer Corporate Identity
-1216;Blaupausen erstellen
-1217;Steckdosen
-1218;Projektunterstützung
-1219;Zusammensetzung des semantischen Kerns
-1220;Softwarespezifikation
-1221;Strategische Kommunikation
-1222;Strategisches Marketing
-1223;Strategische Planung
-1224;Strategisches Management
-1225;Strukturiertes Verkabelungssystem
-1226;InterSystems Cache DBMS
-1227;InterSystems Caché DBMS
-1228;Schaltungstechnik
-1229;Video aufnehmen
-1230;Gezielte Werbung
-1231;Textübersetzung
-1232;Texturierung
-1233;Telekommunikation
-1234;API-Tests
-1235;Designtests
-1236;Kostenlose Suchtests
-1237;Testen mobiler Anwendungen
-1238;Penetrationstests
-1239;Softwaretest
-1240;Leistungstest
-1241;Site-Tests
-1242;Technische Dokumentation
-1243;Technischer Support
-1244;Technisches Design
-1245;CTO
-1246;Technische Übersetzung
-1247;Typografie
-1248;IT-Service-Management
-1249;Geschäftsprozessmanagement
-1250;Änderungsmanagement
-1251;Firmenmanagement
-1252;Content-Management
-1253;Mitarbeiterführung
-1254;Medienkontrolle
-1255;Programm-Management
-1256;Produkt Management
-1257;Projektmanagement
-1258;Entwicklungsmanagement
-1259;Risikomanagement
-1260;Veranstaltungsmanagement
-1261;Management von Softwareanforderungen
-1262;Installation und Wartung von Bürogeräten
-1263;Finanzanalyse
-1264;Forensik
-1265;Fotoretusche
-1266;Fotografie
-1267;Funktionale Programmierung
-1268;Funktionsprüfung
-1269;Literarische Übersetzung
-1270;Farbkorrektur
-1271;Digitale Zeichnung
-1272;Digitaler Signalprozessor
-1273;Digitale Medien
-1274;Designmuster
-1275;Shader
-1276;E-Commerce
-1277;Jurisprudenz
-1278;Yandex direkt
-1279;Yandex.Metrica
+1199;Vert.x
+1200;Videodesign
+1201;Videobearbeitung
+1202;Video Streaming
+1203;Code ansehen
+1204;Vim
+1205;Virales Marketing
+1206;VirtualBox
+1207;Virtualisierung
+1208;Virtualisierungssysteme
+1209;VirtueMart
+1210;Visual Basic
+1211;Visual Basic für Anwendungen
+1212;Visual C#
+1213;Visual Studio
+1214;Visualisierung
+1215;Vmware vSphere
+1216;Sprachausgabe
+1217;Vue.js
+1218;Vulkan API
+1219;WCF
+1220;WPF
+1221;Waterfall
+1222;Way4 Platform
+1223;Web
+1224;Web Interface Design
+1225;Netz Analyse
+1226;Webdesign
+1227;Web Entwicklung
+1228;WebGL
+1229;WebRTC
+1230;WebSockets
+1231;WebTutor
+1232;Webasyst
+1233;Webflow
+1234;Webpack
+1235;Website-Administration
+1236;Website design
+1237;Website-Werbung
+1238;Website-Unterstützung
+1239;Website-Tests
+1240;Win32 API
+1241;WinDbg
+1242;WinRT
+1243;Windows API
+1244;Windows-Administration
+1245;Windows Azure
+1246;Windows Forms
+1247;Wireframes
+1248;Drahtlose Technologien
+1249;Wireshark
+1250;Wolfram Mathematica
+1251;WooCommerce
+1252;WordPress
+1253;Arbeiten mit Audio und Video
+1254;Wowza
+1255;Wrike
+1256;Schreibanweisungen
+1257;Musik komponieren
+1258;WxWidgets
+1259;X86 asm
+1260;XAML
+1261;XHTML
+1262;XML
+1263;XMPP
+1264;XPath
+1265;XSLT
+1266;Xamarin
+1267;Xcode
+1268;Xen
+1269;Xen Cloud Platform
+1270;Yandex DataLens
+1271;Yandex Database
+1272;Yandex direkt
+1273;Yandex.Cloud
+1274;Yandex.Maps-API
+1275;Yandex.Metrica
+1276;Yii framework
+1277;YouTrack
+1278;Yupe
+1279;ZBrush
+1280;Zabbix
+1281;Zend Framework
+1282;Zennoposter
+1283;Zeplin
+1284;ZigBee
+1285;Zurb foundation
+1286;cURL
+1287;kontextbezogene Werbung
+1288;gRPC
+1289;iOS Human Interface Guidelines
+1290;iOS-Entwicklung
+1291;kPHP
+1292;koa.js
+1293;pfSense
+1294;pgSQL
+1295;reStructuredText
+1296;vTiger
+1297;z/OS
